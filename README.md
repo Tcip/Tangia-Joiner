@@ -6,3 +6,6 @@ Simple program that will click on the 'Join' button for Tangia. **Make sure you 
 - S (Start)
 - P (Pause)
 - Q (Exit)
+
+## Screenshot
+![img](https://github.com/Tcip/Tangia-Joiner/blob/main/Screenshot%20Tangia%20Joiner.png "Screenshot")
