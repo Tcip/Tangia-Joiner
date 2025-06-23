@@ -1,5 +1,5 @@
 # Tangia-Joiner
-Simple program that will click on the 'Join' button for Tangia. **Make sure you click on the popout extension button** before you start it.
+Simple program that will click on the 'Join' button for Tangia. **Make sure you click on the Pop Out Extension button** before you start it.
 
 ## Keyboard shortcuts
 
